@@ -1,0 +1,18 @@
+/* ---items */
+
+.items .dashbord {
+  background: none;
+}
+
+.items .dashbord a {
+  color: black;
+}
+
+.items .lorem1 {
+  background-color: #e8e9fa;
+  border-radius: 5px;
+}
+
+.items .lorem1 a {
+  color: #4e59ff;
+}
